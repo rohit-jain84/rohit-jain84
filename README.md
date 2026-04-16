@@ -54,17 +54,40 @@ I architect production AI systems where multi-tenancy, fault tolerance, observab
 
 ## 💬 What People Say
 
-> *"Rohit is a highly skilled senior developer who takes great pride in his work. His deep understanding of software development, combined with his ability to manage technical teams, ensures that projects are delivered efficiently and with high quality."*
-> — **Adriaan**, Entegral Technologies, South Africa
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *"As a startup, Rohit is exactly what you need — highly skilled, creative, an excellent team member and truly committed to the success of the product and company."*
-> — **Jasmine**, GrantEd Inc., USA
+**Adriaan** · *Entegral Technologies, South Africa*
 
-> *"Rohit is a fantastic web developer. He's easy to work with and can articulate complex problems to business stakeholders. Technically he has the skills and capabilities to complete work on time and at the highest quality."*
-> — **Luis**, Nuleep Inc., USA
+"Rohit is a highly skilled senior developer who takes great pride in his work. His deep understanding of software development, combined with his ability to manage technical teams, ensures that projects are delivered efficiently and with high quality."
 
-> *"Rohit has gone from an employee to a partner and a friend. I value his ideas that contribute immensely to the success of the projects I work on with him."*
-> — **Mashal**, Cacawaa, Kuwait
+</td>
+<td width="50%" valign="top">
+
+**Jasmine** · *GrantEd Inc., USA*
+
+"As a startup, Rohit is exactly what you need — highly skilled, creative, an excellent team member and truly committed to the success of the product and company."
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Luis** · *Nuleep Inc., USA*
+
+"Rohit is a fantastic web developer. He's easy to work with and can articulate complex problems to business stakeholders. Technically he has the skills and capabilities to complete work on time and at the highest quality."
+
+</td>
+<td width="50%" valign="top">
+
+**Mashal** · *Cacawaa, Kuwait*
+
+"Rohit has gone from an employee to a partner and a friend. I value his ideas that contribute immensely to the success of the projects I work on with him."
+
+</td>
+</tr>
+</table>
 
 ---
 
