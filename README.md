@@ -1,6 +1,6 @@
 # Hi there, I'm Rohit Jain 👋
 
-**AI Engineer & Enterprise Architect | 17+ Years | Production RAG, Intelligent Agents, Document Intelligence**
+**AI Engineer | Production RAG, Intelligent Agents, Document Intelligence — 17 years of enterprise architecture behind every design decision.**
 
 I architect production AI systems where multi-tenancy, fault tolerance, observability, and cost optimization aren't afterthoughts — they're structural decisions made on day one.
 
@@ -25,10 +25,10 @@ I architect production AI systems where multi-tenancy, fault tolerance, observab
 
 ## 📝 Technical Articles
 
-- [**From Enterprise Backend to AI Engineering**](https://www.rohitjain.net/) — What senior developers need to know about the transition
-- [**RAG Beyond the Basics**](https://www.rohitjain.net/) — Hybrid search, reranking, and evaluation in production
-- [**LLMOps: Building CI/CD Pipelines for AI Applications**](https://www.rohitjain.net/) — Prompt versioning, eval gates, and canary deploys
-- [**Building MCP Servers**](https://www.rohitjain.net/) — A practical guide for enterprise tool integration
+- [**From Enterprise Backend to AI Engineering**](https://www.rohitjain.net/blog/enterprise-to-ai) — What senior developers need to know about the transition
+- [**RAG Beyond the Basics**](https://www.rohitjain.net/blog/rag-beyond-basics) — Hybrid search, reranking, and evaluation in production
+- [**LLMOps: Building CI/CD Pipelines for AI Applications**](https://www.rohitjain.net/blog/llmops-cicd) — Prompt versioning, eval gates, and canary deploys
+- [**Building MCP Servers**](https://www.rohitjain.net/blog/building-mcp-servers) — A practical guide for enterprise tool integration
 
 ---
 
