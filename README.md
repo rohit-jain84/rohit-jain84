@@ -58,12 +58,16 @@ I architect production AI systems where multi-tenancy, fault tolerance, observab
 <tr>
 <td width="50%" valign="top">
 
+⭐⭐⭐⭐⭐
+
 **Adriaan** · *Entegral Technologies, South Africa*
 
 "Rohit is a highly skilled senior developer who takes great pride in his work. His deep understanding of software development, combined with his ability to manage technical teams, ensures that projects are delivered efficiently and with high quality."
 
 </td>
 <td width="50%" valign="top">
+
+⭐⭐⭐⭐⭐
 
 **Jasmine** · *GrantEd Inc., USA*
 
@@ -74,12 +78,16 @@ I architect production AI systems where multi-tenancy, fault tolerance, observab
 <tr>
 <td width="50%" valign="top">
 
+⭐⭐⭐⭐⭐
+
 **Luis** · *Nuleep Inc., USA*
 
 "Rohit is a fantastic web developer. He's easy to work with and can articulate complex problems to business stakeholders. Technically he has the skills and capabilities to complete work on time and at the highest quality."
 
 </td>
 <td width="50%" valign="top">
+
+⭐⭐⭐⭐⭐
 
 **Mashal** · *Cacawaa, Kuwait*
 
