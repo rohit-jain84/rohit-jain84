@@ -52,7 +52,9 @@ I architect production AI systems where multi-tenancy, fault tolerance, observab
 
 ---
 
-## 💬 What People Say
+## 💬 What Clients Say
+
+**Built on Trust & Results** — Feedback from 17 years of building enterprise systems — the same rigor I now bring to AI engineering.
 
 <table>
 <tr>
