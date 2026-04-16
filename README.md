@@ -59,14 +59,14 @@ I architect production AI systems where multi-tenancy, fault tolerance, observab
 <td width="50%" valign="top">
 <p align="center">⭐⭐⭐⭐⭐</p>
 
-*"Rohit is a highly skilled senior developer who takes great pride in his work. His deep understanding of software development, combined with his ability to manage technical teams, ensures that projects are delivered efficiently and with high quality."*
+*"Rohit is a highly skilled senior developer who takes great pride in his work. He is highly experienced in system architecture and can guide complex projects from conception to implementation. His deep understanding of software development, combined with his ability to manage technical teams, ensures that projects are delivered efficiently and with high quality."*
 
 <p align="right">— <strong>Adriaan</strong><br/>Entegral Technologies, South Africa</p>
 </td>
 <td width="50%" valign="top">
 <p align="center">⭐⭐⭐⭐⭐</p>
 
-*"As a startup, Rohit is exactly what you need — highly skilled, creative, an excellent team member and truly committed to the success of the product and company."*
+*"Rohit was an amazing addition to our team and highly skilled developer. He not only performed his projects with precision and dedication but he also contributed to the overall vision and strategy for our team. As a startup, Rohit is exactly what you need — highly skilled, creative, an excellent team member and truly committed to the success of the product and company."*
 
 <p align="right">— <strong>Jasmine</strong><br/>GrantEd Inc., USA</p>
 </td>
@@ -75,14 +75,14 @@ I architect production AI systems where multi-tenancy, fault tolerance, observab
 <td width="50%" valign="top">
 <p align="center">⭐⭐⭐⭐⭐</p>
 
-*"Rohit is a fantastic web developer. He's easy to work with and can articulate complex problems to business stakeholders. Technically he has the skills and capabilities to complete work on time and at the highest quality."*
+*"Rohit is a fantastic web developer. He's got good business and soft skills which I admire. He's easy to work with and can articulate complex problems to business stakeholders. Technically he has the skills and capabilities to complete work on time and at the highest quality."*
 
 <p align="right">— <strong>Luis</strong><br/>Nuleep Inc., USA</p>
 </td>
 <td width="50%" valign="top">
 <p align="center">⭐⭐⭐⭐⭐</p>
 
-*"Rohit has gone from an employee to a partner and a friend. I value his ideas that contribute immensely to the success of the projects I work on with him."*
+*"More than just being competent in his work, which Rohit very much is, I value the ability to be trustworthy, have good team chemistry, and push through when things get tough. Rohit has gone from an employee to a partner and a friend. I value his ideas that contribute immensely to the success of the projects I work on with him."*
 
 <p align="right">— <strong>Mashal</strong><br/>Cacawaa, Kuwait</p>
 </td>
