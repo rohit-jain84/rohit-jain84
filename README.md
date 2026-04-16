@@ -1,50 +1,79 @@
 # Hi there, I'm Rohit Jain 👋
 
-**Senior Software Architect | 17+ Years | AI & Full-Stack Engineering**
+**AI Engineer & Enterprise Architect | 17+ Years | Production RAG, Intelligent Agents, Document Intelligence**
 
-I'm a seasoned architect pivoting deep into AI — combining 17+ years of production-grade distributed systems experience with modern AI/ML engineering. I build intelligent systems that are not just smart, but scalable, reliable, and enterprise-ready.
+I architect production AI systems where multi-tenancy, fault tolerance, observability, and cost optimization aren't afterthoughts — they're structural decisions made on day one.
 
----
+17 years of enterprise backend (C#/.NET, Azure, AWS) gave me the instincts. Python, FastAPI, LangGraph, and vector databases gave me the toolkit.
 
-### 🚀 What I'm Building
-
-- **Enterprise Document Intelligence Platform** — AI-powered document processing with multi-format ingestion, semantic search, and intelligent extraction
-- **Multi-Tenant RAG Platform** — Production-grade Retrieval-Augmented Generation with tenant isolation, vector search (Qdrant), and LLM orchestration
-- **Enterprise MCP Agent System** — Multi-agent orchestration using Model Context Protocol for complex enterprise workflows
-- **LLMOps Platform** — End-to-end AI application lifecycle management — deploy, monitor, evaluate, and iterate on LLM apps
-- **Code Review AI Assistant** — Automated code review powered by LLMs with contextual analysis and actionable feedback
-
-### 🧠 AI & ML
-
-`LLM Orchestration` `RAG Pipelines` `AI Agents` `Semantic Kernel` `LangChain` `Vector Databases` `Prompt Engineering` `LLMOps` `MCP`
-
-### 🏗️ Architecture & Backend
-
-`Distributed Systems` `Microservices` `C#/.NET` `Python` `Node.js` `ASP.NET Core` `Event-Driven Architecture` `Domain-Driven Design`
-
-### ☁️ Cloud & Data
-
-`AWS` `Azure` `PostgreSQL` `SQL Server` `MongoDB` `Redis` `Qdrant` `Docker`
-
-### 🎨 Frontend
-
-`React` `TypeScript` `JavaScript`
+🌐 [rohitjain.net](https://www.rohitjain.net/) · 💼 [LinkedIn](https://www.linkedin.com/in/rohitjaintech/) · 📧 rohitjain84@gmail.com
 
 ---
 
-### 💼 Background
+## 🚀 Production AI Projects
 
-- **Founded Investello** — A value-investing SaaS platform serving 50,000+ users
-- **Senior Tech Lead at Entegral** — Led architecture for distributed systems at scale
-- **B.E. in IT** from NSUT (formerly NSIT), Delhi
+| Project | Key Results | Stack |
+|---------|-------------|-------|
+| [**Multi-Tenant RAG Platform**](https://github.com/rohit-jain84/multi-tenant-rag-platform) | 0.91 faithfulness, +12% hybrid vs dense, 1.8s P95 latency | FastAPI, Qdrant, PostgreSQL, Redis, React |
+| [**Enterprise AI Agents with MCP**](https://github.com/rohit-jain84/enterprise-mcp-agent-system) | 82% task completion, $0.04/conversation, 95% guardrail block rate | LangGraph, Claude, FastMCP, NeMo, Presidio |
+| [**Document Intelligence Platform**](https://github.com/rohit-jain84/enterprise-document-intelligence-platform) | 0.91 F1 classification, +22% nDCG@10, 12 docs/min | FastAPI, Elasticsearch, Celery, Tesseract, spaCy |
+| [**LLMOps Platform**](https://github.com/rohit-jain84/llmops-platform) | Eval-gated CI/CD, A/B testing with t-test, canary rollouts | FastAPI, PostgreSQL, Redis, LangFuse, OTel |
+| [**AI Code Review Assistant**](https://github.com/rohit-jain84/code-review-ai-assistant) | 11 languages, structured findings, multi-LLM support | FastAPI, Claude API, OpenAI API, CodeMirror |
+| **Investello** (Founded) | 100,000+ users, 1M+ data points/month, 5,000 companies | C#, ASP.NET Core, Azure SQL, Semantic Kernel |
 
 ---
 
-### 📫 Let's Connect
+## 📝 Technical Articles
 
-- 🌐 [rohitjain.net](https://www.rohitjain.net/)
-- 💼 [LinkedIn](https://tinyurl.com/rohit9)
-- 📧 rohitjain84@gmail.com
+- [**From Enterprise Backend to AI Engineering**](https://www.rohitjain.net/) — What senior developers need to know about the transition
+- [**RAG Beyond the Basics**](https://www.rohitjain.net/) — Hybrid search, reranking, and evaluation in production
+- [**LLMOps: Building CI/CD Pipelines for AI Applications**](https://www.rohitjain.net/) — Prompt versioning, eval gates, and canary deploys
+- [**Building MCP Servers**](https://www.rohitjain.net/) — A practical guide for enterprise tool integration
+
+---
+
+## 🏗️ Design Philosophy
+
+`Multi-Tenancy by Design` · `Graceful Degradation` · `Evaluation-Driven Development` · `Cost Optimization` · `Observability` · `Security & Safety` · `Docker-First` · `Async-First`
+
+---
+
+## 🧠 Tech Stack
+
+**AI & LLM:** RAG Systems · LangGraph · LangChain · Claude API · OpenAI API · MCP Servers · RAGAS · Embeddings & Vector Search · NeMo Guardrails · Presidio
+
+**Python:** FastAPI · Celery · spaCy · scikit-learn · Pydantic · asyncio
+
+**Infrastructure:** Docker · PostgreSQL · Redis · Elasticsearch · Qdrant · MinIO · OpenTelemetry · Grafana
+
+**Enterprise & Cloud:** C#/.NET · Azure (Functions, SQL, OpenAI) · AWS (Lambda, DynamoDB, S3) · Multi-Tenancy · System Design
+
+**Frontend:** React · TypeScript · Tailwind CSS · Vite
+
+---
+
+## 💬 What People Say
+
+> *"Rohit is a highly skilled senior developer who takes great pride in his work. His deep understanding of software development, combined with his ability to manage technical teams, ensures that projects are delivered efficiently and with high quality."*
+> — **Adriaan**, Entegral Technologies, South Africa
+
+> *"As a startup, Rohit is exactly what you need — highly skilled, creative, an excellent team member and truly committed to the success of the product and company."*
+> — **Jasmine**, GrantEd Inc., USA
+
+> *"Rohit is a fantastic web developer. He's easy to work with and can articulate complex problems to business stakeholders. Technically he has the skills and capabilities to complete work on time and at the highest quality."*
+> — **Luis**, Nuleep Inc., USA
+
+> *"Rohit has gone from an employee to a partner and a friend. I value his ideas that contribute immensely to the success of the projects I work on with him."*
+> — **Mashal**, Cacawaa, Kuwait
+
+---
+
+## 💼 Background
+
+- **Founded Investello** — Value-investing SaaS, scaled to 100K+ users (2016–2025)
+- **Senior Tech Lead** at Entegral — Cut API latency 40%+, led platform modernization (2022–2024)
+- **Principal Architect** — Consulting for clients across USA, Saudi Arabia, Kuwait (2014–2022)
+- **B.E. in IT** — NSUT (formerly NSIT), Delhi
 
 ---
 
