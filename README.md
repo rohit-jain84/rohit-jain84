@@ -14,9 +14,9 @@ I architect production AI systems where multi-tenancy, fault tolerance, observab
 
 | Project | Key Results | Stack |
 |---------|-------------|-------|
-| [**Multi-Tenant RAG Platform**](https://github.com/rohit-jain84/multi-tenant-rag-platform) · [Case Study](https://www.rohitjain.net/case-studies/rag-platform) | 0.91 faithfulness, +12% hybrid vs dense, 1.8s P95 latency | FastAPI, Qdrant, PostgreSQL, Redis, React |
-| [**Enterprise AI Agents with MCP**](https://github.com/rohit-jain84/enterprise-mcp-agent-system) · [Case Study](https://www.rohitjain.net/case-studies/mcp-agent) | 82% task completion, $0.04/conversation, 95% guardrail block rate | LangGraph, Claude, FastMCP, NeMo, Presidio |
-| [**Document Intelligence Platform**](https://github.com/rohit-jain84/enterprise-document-intelligence-platform) · [Case Study](https://www.rohitjain.net/case-studies/document-intelligence) | 0.91 F1 classification, +22% nDCG@10, 12 docs/min | FastAPI, Elasticsearch, Celery, Tesseract, spaCy |
+| [**Multi-Tenant RAG Platform**](https://github.com/rohit-jain84/multi-tenant-rag-platform) | 0.91 faithfulness, +12% hybrid vs dense, 1.8s P95 latency · [Case Study](https://www.rohitjain.net/case-studies/rag-platform) | FastAPI, Qdrant, PostgreSQL, Redis, React |
+| [**Enterprise AI Agents with MCP**](https://github.com/rohit-jain84/enterprise-mcp-agent-system) | 82% task completion, $0.04/conversation, 95% guardrail block rate · [Case Study](https://www.rohitjain.net/case-studies/mcp-agent) | LangGraph, Claude, FastMCP, NeMo, Presidio |
+| [**Document Intelligence Platform**](https://github.com/rohit-jain84/enterprise-document-intelligence-platform) | 0.91 F1 classification, +22% nDCG@10, 12 docs/min · [Case Study](https://www.rohitjain.net/case-studies/document-intelligence) | FastAPI, Elasticsearch, Celery, Tesseract, spaCy |
 | [**LLMOps Platform**](https://github.com/rohit-jain84/llmops-platform) | Eval-gated CI/CD, A/B testing with t-test, canary rollouts | FastAPI, PostgreSQL, Redis, LangFuse, OTel |
 | [**AI Code Review Assistant**](https://github.com/rohit-jain84/code-review-ai-assistant) | 11 languages, structured findings, multi-LLM support | FastAPI, Claude API, OpenAI API, CodeMirror |
 | **Investello** (Founded) | 100,000+ users, 1M+ data points/month, 5,000 companies | C#, ASP.NET Core, Azure SQL, Semantic Kernel |
